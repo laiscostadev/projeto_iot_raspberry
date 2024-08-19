@@ -4,14 +4,14 @@
 
 Este projeto foi criado para ajudar os colaboradores da Academia AXM Fit a controlar o desempenho físico nos exercícios de musculação e cardio e também a frequência de seus alunos, uma vez que essas métricas são utilizadas em premiações e recompensas, visando mantê-los motivados e comprometidos.
 
-* [Objetivo]
+# Objetivo
 O objetivo deste projeto é desenvolver e implementar uma ferramenta de software que permita:
 
 - Fornecer as informações necessárias para a avaliação do desempenho dos alunos de forma automatizada e sem esforços manuais;
 - Possibilitar a ordenação de forma simples dos alunos, de acordo com sua colocação;
 - Verificar o desempenho de forma separada e organizada de acordo com as métricas consideradas.
 
-* [Dados Utilizados]
+# Dados Utilizados
 - Frequência do Aluno
 
 Para monitoramento de Cardio:
@@ -26,5 +26,5 @@ Para monitoramento de Musculação:
 - Quantidade de repetições durante as séries;
 - Quantidade de séries realizadas no exercício selecionado;
 
-* [Contato]
+# Contato
 Para mais informações, entre em contato com [dev.laiscosta@gmail.com].
